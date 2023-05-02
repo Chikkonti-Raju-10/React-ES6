@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    color: #767676;;
+    margin: 1rem 0rem;
+}
+h3 {  
+    margin: 1rem 0rem;
+}
+.main {
+    text-align: center;
+    margin: 16px;
+}
+.display {
+    display: flex;
+    justify-content: space-between;
+    margin: 0rem 0rem;
+    background-color: aquamarine;
+}
+.display h1 {
+    color: #ffffff;
+    margin: 1rem 2rem;
+}
+span {
+    color: #000000;
+}
+.display ul {
+    float: right;   
+    margin: 1rem 1rem;
+}
+li {
+    color: #000000;
+    font-size: 16px;
+    font-weight: 400;
+    display: inline-block;
+    margin: 1rem 2rem;
+    cursor: pointer;
+}
+
+.data {
+    text-align: left;
+    font-size: 15px;
+}
+.click {
+    float: left;
+    margin: 1rem 0rem ;
+}
+.click .btn{
+    background-color: #767676;
+    width: 150px;
+    height: auto;
+    color: #ffffff;
+}
+.item {
+    text-align: left;
+}
+.items {
+    text-align: left;
+}
